@@ -1,6 +1,9 @@
-We welcome all contributions to this project!
+# Contributing
 
-If you notice a bug, or have a feature request, please open up an issue [here](https://github.com/UBC-MDS/DSCI_524_Group2_Python/issues).
-If you'd like to contribute a feature or bug fix, you can fork our repo and submit a pull request.
+We welcome any feedback or contributions to this project!
 
-We will review pull requests within 7 days. All contributors must abide by our code of conduct.
+If you have a feature request or find a bug, please create an issue in our repo. For details on creating an issue see GitHub documentation [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue).
+
+Please follow Github flow to create a new branch for your commit and start a pull request. For details on creating a pull request see GitHub documentation [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Your pull request will be reviewed by our team within 7 business days.
+
+Please note all contributors must abide by our [code of conduct](https://github.com/UBC-MDS/DSCI_524_Group2_Python/blob/master/CODE_OF_CONDUCT.md).
